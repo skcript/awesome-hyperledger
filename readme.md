@@ -48,11 +48,11 @@ __Engineering__
 * [Bootstrapping Hyperledger Fabric 1.0](https://linuxctl.com/2017/08/bootstrapping-hyperledger-fabric-1.0/)
 
 ### Samples
-* [Fabric Samples](https://github.com/hyperledger/fabric-samples)
-* [Composer Dev Server](https://github.com/hyperledger/composer-tools/tree/master/packages/fabric-dev-servers)
-* [Marbles](https://github.com/IBM-Blockchain/marbles)
-* [Composer Sample Application](https://github.com/hyperledger/composer-sample-applications)
-* [fabric-dev-servers-multipeer](https://github.com/varun-raj/fabric-dev-servers-multipeer)
+* [Fabric Samples](https://github.com/hyperledger/fabric-samples) - Has list of chaincode and fabric network samples to play with. Byfn is pretty good way to start.
+* [Composer Dev Server](https://github.com/hyperledger/composer-tools/tree/master/packages/fabric-dev-servers) - Development Fabric Server to deploy and test composer business network archive
+* [Marbles](https://github.com/IBM-Blockchain/marbles) - A simple asset transfer project based on Hyperledger Fabric
+* [Composer Sample Application](https://github.com/hyperledger/composer-sample-applications) - Sample composer business network applications to get started with
+* [fabric-dev-servers-multipeer](https://github.com/varun-raj/fabric-dev-servers-multipeer) - Composer dev server to run mutliple peers in multiple physical host machines.
 
 ## Hyperledger Sawtooth
 [<img src="https://www.hyperledger.org/wp-content/uploads/2018/01/Hyperledger_Sawtooth_Logo_Color.png" align="right" width="250">](https://www.hyperledger.org/projects/sawtooth)
