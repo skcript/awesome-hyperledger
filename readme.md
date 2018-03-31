@@ -5,8 +5,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
-- [Framework Docs](#framework-docs)
-- [Articles](#articles)
+- [Hyperledger Fabric](#hyperledger-fabric)
+- [Hyperledger Sawtooth](#hyperledger-sawtooth)
+- [Hyperledger Iroha](#hyperledger-iroha)
+- [Other Tools](#other-tools)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Hyperledger Fabric 
 [<img src="https://www.hyperledger.org/wp-content/uploads/2018/03/Hyperledger_Fabric_Logo_Color.png" align="right" width="250">](https://www.hyperledger.org/projects/fabric)
@@ -61,8 +65,9 @@ __Engineering__
 * [Offical Docs](http://iroha.readthedocs.io/)
 
 
-## Other tools
-* [Blockchain Exploerer](https://github.com/hyperledger/blockchain-explorer)
+## Other Tools
+
+* [Blockchain Explorer](https://github.com/hyperledger/blockchain-explorer)
 
 ## Contributing
 
