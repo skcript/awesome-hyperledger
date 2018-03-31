@@ -5,12 +5,12 @@
 [<img src="https://www.hyperledger.org/wp-content/uploads/2018/03/Hyperledger_Fabric_Logo_Color.png" align="right" width="250">](https://www.hyperledger.org/projects/fabric)
 
 ### Framework Docs
-* [Offical Docs](https://hyperledger-fabric.readthedocs.io/en/release-1.1/)
-* [Node Chaincode SDK](https://fabric-sdk-node.github.io/)
-* [Node Client SDK](https://fabric-sdk-node.github.io/)
-* [Go Chaincode SDK](https://fabric-sdk-node.github.io/)
-* [Go Client SDK](https://godoc.org/github.com/hyperledger/fabric/core/chaincode/shim)
-* [Composer Docs](https://hyperledger.github.io/composer/latest/introduction/introduction.html)
+* [Offical Docs](https://hyperledger-fabric.readthedocs.io/en/release-1.1/) - All about Hyperledger Fabric, mostly the algorithm and theory part.
+* [Node Chaincode SDK](https://fabric-sdk-node.github.io/) - NodeJS based Chaincode development documentation
+* [Node Client SDK](https://fabric-sdk-node.github.io/) - NodeJS Client SDK documentation
+* [Go Chaincode SDK](https://fabric-sdk-node.github.io/) - GoLang Chaincode Documentation 
+* [Go Client SDK](https://godoc.org/github.com/hyperledger/fabric/core/chaincode/shim) - GoLang Client Documentation
+* [Composer Docs](https://hyperledger.github.io/composer/latest/introduction/introduction.html) - Hyperledger Composer Official Documentation
 
 
 ### Articles
@@ -29,14 +29,14 @@ __Client Application__
 
 
 __Engineering__
-
+* [Bootstrapping Hyperledger Fabric 1.0](https://linuxctl.com/2017/08/bootstrapping-hyperledger-fabric-1.0/)
 
 ### Samples
 * [Fabric Samples](https://github.com/hyperledger/fabric-samples)
 * [Composer Dev Server](https://github.com/hyperledger/composer-tools/tree/master/packages/fabric-dev-servers)
 * [Marbles](https://github.com/IBM-Blockchain/marbles)
 * [Composer Sample Application](https://github.com/hyperledger/composer-sample-applications)
-
+* [fabric-dev-servers-multipeer](https://github.com/varun-raj/fabric-dev-servers-multipeer)
 
 ## Hyperledger Sawtooth
 [<img src="https://www.hyperledger.org/wp-content/uploads/2018/01/Hyperledger_Sawtooth_Logo_Color.png" align="right" width="250">](https://www.hyperledger.org/projects/sawtooth)
