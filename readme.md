@@ -1,5 +1,12 @@
-# Awesome Hyperledger
+# Awesome Hyperledger [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+> A curated list of Hyperledger Resources, Articles, Talks and Applications, all in one place.
 
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+
+## Table of Contents
+
+- [Framework Docs](#framework-docs)
+- [Articles](#articles)
 
 ## Hyperledger Fabric 
 [<img src="https://www.hyperledger.org/wp-content/uploads/2018/03/Hyperledger_Fabric_Logo_Color.png" align="right" width="250">](https://www.hyperledger.org/projects/fabric)
@@ -56,3 +63,13 @@ __Engineering__
 
 ## Other tools
 * [Blockchain Exploerer](https://github.com/hyperledger/blockchain-explorer)
+
+## Contributing
+
+Suggestions and PRs are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
