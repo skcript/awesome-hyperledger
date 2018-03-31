@@ -1,4 +1,4 @@
-# Hyperledger Fabric Resources
+# Awesome Hyperledger
 
 ### Framework Docs
 * [Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.1/)
