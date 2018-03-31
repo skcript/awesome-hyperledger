@@ -6,8 +6,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Table of Contents
 
 - [Hyperledger Fabric](#hyperledger-fabric)
+  - [Framework Docs](#framework-docs)
+  - [Articles](#articles)
+  - [Samples](#samples)
 - [Hyperledger Sawtooth](#hyperledger-sawtooth)
+  - [Framework Docs](#framework-docs)
 - [Hyperledger Iroha](#hyperledger-iroha)
+  - [Framework Docs](#framework-docs)
 - [Other Tools](#other-tools)
 - [Contributing](#contributing)
 - [License](#license)
