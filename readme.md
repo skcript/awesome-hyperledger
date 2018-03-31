@@ -14,9 +14,22 @@
 
 
 ### Articles
+
+__Network & DevOps__
 * [Extending Hyperledger Fabric Network: Adding a New Peer](https://medium.com/@wahabjawed/extending-hyperledger-fabric-network-adding-a-new-peer-4f52f70a7217)
 * [Add an organization to your existing Hyperledger Fabric blockchain network using an easy tool](https://www.ibm.com/developerworks/cloud/library/cl-add-an-organization-to-your-hyperledger-fabric-blockchain/index.html)
 * [Setting up a Blockchain Business Network With Hyperledger Fabric & Composer Running in Multiple Physical Machine](https://www.skcript.com/svr/setting-up-a-blockchain-business-network-with-hyperledger-fabric-and-composer-running-in-multiple-physical-machine/)
+
+__Chaincode__
+* [Writing your first simple Hyperledger Fabric Chaincode in Go](https://www.skcript.com/svr/writing-your-first-simple-hyperledger-fabric-chaincode-in-go/)
+
+__Client Application__
+* [Hyperledger Fabric & couchdb, fantastic queries and where to find them](https://medium.com/wearetheledger/hyperledger-fabric-couchdb-fantastic-queries-and-where-to-find-them-f8a3aecef767)
+* [Setting up RESTful API Server for Hyperledger Fabric With NodeJS SDK](https://www.skcript.com/svr/setting-up-restful-api-server-for-hyperledger-fabric-with-nodejs-sdk/)
+
+
+__Engineering__
+
 
 ### Samples
 * [Fabric Samples](https://github.com/hyperledger/fabric-samples)
@@ -41,4 +54,5 @@
 * [Offical Docs](http://iroha.readthedocs.io/)
 
 
-
+## Other tools
+* [Blockchain Exploerer](https://github.com/hyperledger/blockchain-explorer)
