@@ -25,4 +25,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Contributing
 
-Suggestions and PRs are welcome! Please read the [contribution guidelines](contributing.md) first.
+Suggestions and PRs are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
