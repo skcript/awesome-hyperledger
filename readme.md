@@ -47,12 +47,13 @@ __Network & DevOps__
 __Chaincode__
 * [Writing your first simple Hyperledger Fabric Chaincode in Go](https://www.skcript.com/svr/writing-your-first-simple-hyperledger-fabric-chaincode-in-go/)
 * [How to Build an End-to-End encryption in Hyperledger Fabric](https://www.skcript.com/svr/end-to-end-encryption-hyperledger-fabric/)
+* [Start Developing Hyperledger Fabric Chaincode in Node.js](https://medium.com/coinmonks/start-developing-hyperledger-fabric-chaincode-in-node-js-e63b655d98db)
 
 __Client Application__
 * [Hyperledger Fabric & couchdb, fantastic queries and where to find them](https://medium.com/wearetheledger/hyperledger-fabric-couchdb-fantastic-queries-and-where-to-find-them-f8a3aecef767)
 * [Setting up RESTful API Server for Hyperledger Fabric With NodeJS SDK](https://www.skcript.com/svr/setting-up-restful-api-server-for-hyperledger-fabric-with-nodejs-sdk/)
 * [Configuring Node SDK’s Connection Profile for Multiple Channel - Multiple Chaincode](https://www.skcript.com/svr/configuring-node-sdk-s-connection-profile-for-multiple-channel-multiple-chaincode/)
-
+* [Walkthrough of Hyperledger Fabric Node SDK and Client Application](https://medium.com/datadriveninvestor/walkthrough-of-hyperledger-fabric-client-application-aae5222bdfd3)
 
 __Engineering__
 * [Bootstrapping Hyperledger Fabric 1.0](https://linuxctl.com/2017/08/bootstrapping-hyperledger-fabric-1.0/)
