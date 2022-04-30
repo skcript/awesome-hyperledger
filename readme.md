@@ -35,6 +35,7 @@ __Architecture__
 * [Demystifying Hyperledger Fabric (1/3): Fabric Architecture](https://medium.com/coinmonks/demystifying-hyperledger-fabric-1-3-fabric-architecture-a2fdb587f6cb)
 * [Demystifying Hyperledger Fabric (2/3): Private Data Collection](https://medium.com/coinmonks/demystifying-hyperledger-fabric-2-3-private-data-collection-164220ecafa5)
 * [Demystifying Hyperledger Fabric (3/3): Network Traffic Handling, Service Discovery, and Operations Service](https://medium.com/coinmonks/demystifying-hyperledger-fabric-3-3-network-traffic-handling-service-discovery-and-operations-f9a2046b4067)
+* [Hyperledger Fabric The Hard Way: Bootstrap Hyperledger Fabric the hard way](https://github.com/zufardhiyaulhaq/hyperledger-fabric-the-hard-way)
 
 __Network & DevOps__
 * [Extending Hyperledger Fabric Network: Adding a New Peer](https://medium.com/@wahabjawed/extending-hyperledger-fabric-network-adding-a-new-peer-4f52f70a7217)
